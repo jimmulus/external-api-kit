@@ -30,7 +30,7 @@ options: testing, dummy
 ## config file ##
 external-apis.php
 
-## Controler ##
+## Controller ##
 - `DummyController.php` 
 
 ## Services ## 
